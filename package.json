@@ -1,0 +1,20 @@
+{
+  "name": "cypressbugereats",
+  "version": "1.0.0",
+  "description": "Projeto de Teste de Aceitacao do App BugerEats",
+  "main": " ",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "\u001a"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
